@@ -3,7 +3,6 @@ package com.ejemplo.SpringBoot.Controller;
 
 import com.ejemplo.SpringBoot.model.Persona;
 import com.ejemplo.SpringBoot.service.IPersonaService;
-import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
